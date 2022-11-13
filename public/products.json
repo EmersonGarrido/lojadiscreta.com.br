@@ -210,23 +210,23 @@
   {
     "id": 27,
     "name": "Plug azul escuro",
-    "description": "",
-    "price": "29,99",
+    "description": "O acessório serve como um estimulador, pode ser usado para quem quer acrescentar um tom mais fetichista na relação, principalmente em jogos de dominação e submissão. ",
+    "price": "49,99",
     "image": "/plug-coraca-azul-escuro.png",
     "category_id": 4
   },
   {
     "id": 28,
     "name": "Plug fruta cor",
-    "description": "",
-    "price": "29,99",
+    "description": "O acessório serve como um estimulador, pode ser usado para quem quer acrescentar um tom mais fetichista na relação, principalmente em jogos de dominação e submissão. ",
+    "price": "49,99",
     "image": "/plug-coracao-fruta-cor.png",
     "category_id": 4
   },
   {
     "id": 29,
     "name": "Vibrador golfinho",
-    "description": "",
+    "description": "Vibrador Ponto G em formato de golfinho em ABS, super resistente e potente, ponta levemente curvada, possui toque suave e aveludado. É pequeno e discreto para ser levado na bolsa.",
     "price": "29,99",
     "image": "/vibrador-golfinho.png",
     "category_id": 4
@@ -235,23 +235,167 @@
     "id": 30,
     "name": "Vibrador porquinho",
     "description": "",
-    "price": "29,99",
+    "price": "179,99",
     "image": "/vibrador-porquinho.png",
     "category_id": 4
   },
   {
     "id": 31,
-    "name": "Vibrator",
-    "description": "",
-    "price": "29,99",
+    "name": "Vibrator Bullet",
+    "description": "É feito em silicone com toque bem macio e possui 10 vibrações que auxiliam na estimulação e deixam a experiência ainda mais gostosa.",
+    "price": "149,99",
     "image": "/bullet-vibrator.png",
     "category_id": 4
   },
   {
     "id": 32,
     "name": "Vibrador Càpsula",
-    "description": "",
+    "description": "É um surpreendente vibrador multivelocidades que fará com que você suba pelas paredes com esse poder incrível que só ele tem, ele ainda contém um controle para que você possa ajustar na melhor vibração.",
     "price": "29,99",
+    "image": "/vibrador-capsula.png",
+    "category_id": 4
+  },
+  {
+    "id": 33,
+    "name": "Black Ice",
+    "description": "Seu diferencial é que pode ser degustado e na área aplicada dá uma sensação de gelado, solte a imaginação.",
+    "price": "9,99",
+    "image": "/vibrador-capsula.png",
+    "category_id": 4
+  },
+  {
+    "id": 34,
+    "name": "Oriental Spray",
+    "description": "O Spray oriental Hot Flowers reúne os segredos da cosmética oriental. Esquenta muito, e depois dá sensação de gelar, mas é somente sensação, essa pomada é um show de sensações.",
+    "price": "29,99",
+    "image": "/vibrador-capsula.png",
+    "category_id": 4
+  },
+  {
+    "id": 35,
+    "name": "Chicletex Menta",
+    "description": "O Chicletex é um gel beijável com vários sabores maravilhosos, que lembra muito uma das melhores gomas de mascar do mercado.",
+    "price": "15,99",
+    "image": "/vibrador-capsula.png",
+    "category_id": 4
+  },
+  {
+    "id": 36,
+    "name": "Kuloko",
+    "description": "Sua principal função é dessensibilizar, auxiliando no relaxamento da musculatura anal e preparando o ânus para uma penetração mais prazerosa, possui também outras funções como sensação treme (vibrações) e efeito geladinho que em contato com a pele, atua como excitante e potencializa a diminuição do desconforto.",
+    "price": "21,99",
+    "image": "/vibrador-capsula.png",
+    "category_id": 4
+  },
+  {
+    "id": 37,
+    "name": "Pinto Loko",
+    "description": "Ele atua como um vasodilatador, aumentando a circulação sanguínea da região dando a sensação que ele está maior, mais grosso e mais firme.",
+    "price": "21,99",
+    "image": "/vibrador-capsula.png",
+    "category_id": 4
+  },
+  {
+    "id": 38,
+    "name": "Xana Loka",
+    "description": "Sensações deliciosas de excitar, esquentar, esfriar, vibrar e lubrificar, tudo isso num só produto.",
+    "price": "21,99",
+    "image": "/vibrador-capsula.png",
+    "category_id": 4
+  },
+  {
+    "id": 39,
+    "name": "Horas Bolas",
+    "description": "O Gel Umectante Horas Bolas é um excitante masculino que proporciona sensações intensas de aquecimento, retarda a ejaculação e prolonga a ereção.",
+    "price": "21,99",
+    "image": "/vibrador-capsula.png",
+    "category_id": 4
+  },
+  {
+    "id": 40,
+    "name": "Aceita que dói menos",
+    "description": "Voltado para público LGBTQI+, o gel Aceita que Dói Menos da Linha Orgulho possui uma sensação para cada cor da bandeira, ele Hidrata, Tonifica, Cicatriza, Dilata, Diminui o desconforto anal, Lubrifica e Estimula.",
+    "price": "24,99",
+    "image": "/vibrador-capsula.png",
+    "category_id": 4
+  },
+  {
+    "id": 41,
+    "name": "Comigo ninguém pode",
+    "description": "O Gel Umectante Comigo Ninguém Pode contém óleo essencial de canela que possui propriedades afrodisíacas e estimulantes, proporciona um super aquecimento que irá aumentar o seu apetite sexual. ",
+    "price": "19,99",
+    "image": "/vibrador-capsula.png",
+    "category_id": 4
+  },
+  {
+    "id": 42,
+    "name": "Piriquita Assanhada",
+    "description": "Ele deixa você completamente excitado, aumentando o seu apetite sexual, ele aumenta a sensibilidade da região vaginal e estimula o orgasmo mais intenso.",
+    "price": "19,99",
+    "image": "/vibrador-capsula.png",
+    "category_id": 4
+  },
+  {
+    "id": 43,
+    "name": "Tarja Preta",
+    "description": "Sua principal função é aquecer a região onde foi aplicação, excitando ainda mais o seu parceiro(a) e facilitando até o orgasmo.",
+    "price": "19,99",
+    "image": "/vibrador-capsula.png",
+    "category_id": 4
+  },
+  {
+    "id": 44,
+    "name": "Trepadeira",
+    "description": "O Gel Umectante Trepadeira possui a função de aumentar a circulação sanguínea, sensibilizando e excitando, proporcionando uma sensação super calorosa no local aplicado.",
+    "price": "21,99",
+    "image": "/vibrador-capsula.png",
+    "category_id": 4
+  },
+  {
+    "id": 45,
+    "name": "Love Lub Neutro",
+    "description": "Usado para sexo vaginal e anal e para massagem corporal, sendo lubrificante (não é anestésico) elimina o atrito na pele e facilita a penetração, podendo ser usado também para lubrificação feminina.",
+    "price": "15,99",
+    "image": "/vibrador-capsula.png",
+    "category_id": 4
+  },
+  {
+    "id": 46,
+    "name": "Love Lub Ice",
+    "description": "Love Lub Ice causa uma sensação maravilhosa, após passar no local desejado basta um leve assopro para causar uma sensação agradável de esfriar a pele, fazendo com que você liberte as suas fantasias mais sensuais, (não é anestésico) elimina o atrito na pele e facilita a penetração, podendo ser usado também para lubrificação feminina.",
+    "price": "15,99",
+    "image": "/vibrador-capsula.png",
+    "category_id": 4
+  },
+  {
+    "id": 47,
+    "name": "Love Lub Hot ",
+    "description": "Love Lub Hot causa uma sensação impressionante, após passar no local almejado basta um suave assopro para causar uma sensação prazerosa de esquentar a pele, fazendo com que você desencadeie as suas fantasias mais eróticas, (não é anestésico) elimina o atrito na pele e facilita a penetração, podendo ser usado também para lubrificação feminina.",
+    "price": "15,99",
+    "image": "/vibrador-capsula.png",
+    "category_id": 4
+  },
+  {
+    "id": 48,
+    "name": "100 Dor 6x1",
+    "description": "O Gel Dessensibilizante é adequado para o sexo anal, porque além de promover sensações de dilatação também inibe o desconforto (um dos maiores medos de mulheres que querem experimentar o sexo anal) e possui ação cicatrizante.",
+    "price": "9,99",
+    "image": "/vibrador-capsula.png",
+    "category_id": 4
+  },
+  {
+    "id": 44,
+    "name": "Pomada Oriental",
+    "description": "Hot que esquenta e ao mesmo tempo Ice que esfria, que tem como função de aquecer o local aplicado, trazendo a excitação com a impressão de calor, e ao mesmo tempoesfriar ainda estimulando relação",
+    "price": "19,99",
+    "image": "/vibrador-capsula.png",
+    "category_id": 4
+  },
+  {
+    "id": 44,
+    "name": "Xana Crazy",
+    "description": "Sensações de esquentar e esfriar alternando. Sem contar que ainda possui uma fragrância perfumada que, além de instigada.",
+    "price": "21,99",
     "image": "/vibrador-capsula.png",
     "category_id": 4
   }
