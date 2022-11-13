@@ -1,0 +1,210 @@
+[
+  {
+    "id": 1,
+    "name": "Chicote Cordas",
+    "description": "Chicote com 20 Tiras de Corda em nylon resistente e flexível para proporcionar um com impacto confortável no corpo. Possui base de madeira revestida em nylon e ponteira em borracha com travas prateadas. Detalhe de alça de suporte para facilitar a armazenagem em casa.",
+    "price": "54.90",
+    "image": "/chicote-cordas.png",
+    "category_id": 1
+  },
+  {
+    "id": 2,
+    "name": "Shock-G Menta",
+    "description": "Shock-G auxilia na estimulação do Ponto G produzindo uma agradável sensação de Hot de Aquecimento e Vibração sendo comestível e com um delicioso sabor de Menta",
+    "price": "69.90",
+    "image": "/snock-g-menta.png",
+    "category_id": 2
+  },
+  {
+    "id": 3,
+    "name": "Shock-G Chocolate",
+    "description": "Shock-G auxilia na estimulação do Ponto G produzindo uma agradável sensação de Hot de Aquecimento e Vibração sendo comestível e com um delicioso sabor de Chocolate",
+    "price": "69.90",
+    "image": "/snock-g-chocolate.png",
+    "category_id": 2
+  },
+  {
+    "id": 4,
+    "name": "Nueva Adstringente",
+    "description": "É um adstringente unissex que te irá te oferecer muito prazer, te dando a sensação de estreitamento do canal vaginal e te proporcionar um alto poder de lubrificação na área aplicada",
+    "price": "15,90",
+    "image": "/nueva.png",
+    "category_id": 1
+  },
+  {
+    "id": 5,
+    "name": "Caliente Intensificador Feminino",
+    "description": "Esse intensificador serve para excitar o seu momento da melhor forma, pois o excitante feminino contém funções de esquentar, lubrificar e aumentar a libido",
+    "price": "15,90",
+    "image": "/caliente.png",
+    "category_id": 2
+  },
+  {
+    "id": 6,
+    "name": "Tiempo Intensificador Masculino",
+    "description": "",
+    "price": "15,90",
+    "image": "/tiempo.png",
+    "category_id": 2
+  },
+  {
+    "id": 7,
+    "name": "Garganta Muito + Profunda",
+    "description": "",
+    "price": "29,90",
+    "image": "/garganta-profunda.png",
+    "category_id": 3
+  },
+  {
+    "id": 8,
+    "name": "Goze +",
+    "description": "",
+    "price": "24,90",
+    "image": "/goze+.png",
+    "category_id": 2
+  },
+  {
+    "id": 9,
+    "name": "Tesão na Raba",
+    "description": "",
+    "price": "19,90",
+    "image": "/tesao-na-raba.png",
+    "category_id": 3
+  },
+  {
+    "id": 10,
+    "name": "Perfume de Calcinha Morango",
+    "description": "",
+    "price": "15,00",
+    "image": "/perfume-de-calcinha-morango.png",
+    "category_id": 5
+  },
+  {
+    "id": 11,
+    "name": "Perfume de Calcinha Chocomenta",
+    "description": "",
+    "price": "15,00",
+    "image": "/perfume-de-calcinha-chocomenta.png",
+    "category_id": 5
+  },
+  {
+    "id": 12,
+    "name": "Perfume de Calcinha Uva",
+    "description": "",
+    "price": "15,00",
+    "image": "/perfume-de-calcinha-uva.png",
+    "category_id": 5
+  },
+  {
+    "id": 13,
+    "name": "Perfume de Calcinha Tutti Frutti",
+    "description": "",
+    "price": "15,00",
+    "image": "/perfume-de-calcinha-tutti-frutti.png",
+    "category_id": 5
+  },
+  {
+    "id": 14,
+    "name": "Dando uma gostoso",
+    "description": "",
+    "price": "",
+    "image": "/dando-uma.png",
+    "category_id": 6
+  },
+  {
+    "id": 15,
+    "name": "Metebala com força",
+    "description": "",
+    "price": "",
+    "image": "/metebala.png",
+    "category_id": 6
+  },
+  {
+    "id": 16,
+    "name": "Janumete",
+    "description": "",
+    "price": "",
+    "image": "/janumete.png",
+    "category_id": 6
+  },
+  {
+    "id": 17,
+    "name": "Ferro 1000 Ereto",
+    "description": "",
+    "price": "",
+    "image": "/ferro1000.png",
+    "category_id": 6
+  },
+  {
+    "id": 18,
+    "name": "Nabucetim",
+    "description": "",
+    "price": "",
+    "image": "/nabucetim.png",
+    "category_id": 6
+  },
+  {
+    "id": 19,
+    "name": "SóAnus",
+    "description": "",
+    "price": "",
+    "image": "/soanus.png",
+    "category_id": 6
+  },
+  {
+    "id": 20,
+    "name": "Pirocaexana",
+    "description": "",
+    "price": "",
+    "image": "/pirocaexana.png",
+    "category_id": 6
+  },
+  {
+    "id": 21,
+    "name": "Seja foda na escada",
+    "description": "",
+    "price": "",
+    "image": "/seja-foda-na-escada.png",
+    "category_id": 2
+  },
+  {
+    "id": 22,
+    "name": "Seja foda no sofá",
+    "description": "",
+    "price": "",
+    "image": "/seja-foda-no-sofa.png",
+    "category_id": 2
+  },
+  {
+    "id": 23,
+    "name": "Seja foda na cama",
+    "description": "",
+    "price": "",
+    "image": "/seja-foda-na-cama.png",
+    "category_id": 2
+  },
+  {
+    "id": 24,
+    "name": "Seja foda no carro",
+    "description": "",
+    "price": "",
+    "image": "/seja-foda-no-carro.png",
+    "category_id": 2
+  },
+  {
+    "id": 25,
+    "name": "Egg Stepper",
+    "description": "",
+    "price": "",
+    "image": "/egg-stepper.png",
+    "category_id": 7
+  },
+  {
+    "id": 26,
+    "name": "Egg Wavy",
+    "description": "",
+    "price": "",
+    "image": "/egg-wavy.png",
+    "category_id": 7
+  }
+]
