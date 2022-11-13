@@ -210,9 +210,49 @@
   {
     "id": 27,
     "name": "Plug azul escuro",
-    "description": "O Masturbador masculino Egg Wavy tem uma textura em seu interior que dispões deliciosas ondulações no sentido horizontal, proporcionando maravilhosas sensações durante a masturbação, te levando a loucura com seus estímulos.",
+    "description": "",
     "price": "29,99",
-    "image": "/egg-wavy.png",
-    "category_id": 7
+    "image": "/plug-coraca-azul-escuro.png",
+    "category_id": 4
+  },
+  {
+    "id": 28,
+    "name": "Plug fruta cor",
+    "description": "",
+    "price": "29,99",
+    "image": "/plug-coracao-fruta-cor.png",
+    "category_id": 4
+  },
+  {
+    "id": 29,
+    "name": "Vibrador golfinho",
+    "description": "",
+    "price": "29,99",
+    "image": "/vibrador-golfinho.png",
+    "category_id": 4
+  },
+  {
+    "id": 30,
+    "name": "Vibrador porquinho",
+    "description": "",
+    "price": "29,99",
+    "image": "/vibrador-porquinho.png",
+    "category_id": 4
+  },
+  {
+    "id": 31,
+    "name": "Vibrator",
+    "description": "",
+    "price": "29,99",
+    "image": "/bullet-vibrator.png",
+    "category_id": 4
+  },
+  {
+    "id": 32,
+    "name": "Vibrador Càpsula",
+    "description": "",
+    "price": "29,99",
+    "image": "/vibrador-capsula.png",
+    "category_id": 4
   }
 ]
